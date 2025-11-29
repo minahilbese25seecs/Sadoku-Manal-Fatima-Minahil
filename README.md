@@ -1,5 +1,5 @@
 # Sudoku Game
-this repository contains the all the details required for the making a sudoku game that you can play on a variety of difficulties.<br>
+this repository contains  all the details required for the making a sudoku game that you can play on a variety of difficulties.<br>
 <br>**Title and Team Information**:<br>
 Title:  Sudoku Game, Checker, and Solver<br>
 <br>**Team Members**:<br>
@@ -38,17 +38,18 @@ The code has been designed and tested on **Visual Studio/Visual Studio Code** co
 
 
 <br>**Team Collaboration**:<br>
-<br>Manal Faisal: 
-         This team member is essential for rechecking the code and adding additional features to it in order to keep it updated.Has worked with other team members ot ensure all team members are on the same page regarding the code.<br>
-<br>Fatima Faizan: Responsible for coding the base of the sadoku game inclduing 3x3 grids and hard-coding the numbers which will be displayed once the user starts playing.<br>
+<br>Manal Faisal:<br> 
+         This team member is essential for rechecking the code and <ins>adding additional features</ins> to it in order to keep it updated.Has worked with other team members to ensure all team members are on the same page regarding the code.<br>
+         
+<br>Fatima Faizan:<br> Responsible for <ins>coding the base of the sudoku game</ins> for each of the difficulty level where numbers  will be randomized and displayed once the user starts playing.<br>
 <img width="881" height="60" alt="Image" src="https://github.com/user-attachments/assets/fb8a7671-0ab6-48c1-a887-3de6d9b295d4" /><br>
 
-<br>Minahil Tahir: Responsible for maintaining a structured README.md file on github including other git files.Moreover,this team member handles <iformation of flowchart of functions for this particular assignment along with testing possible outcomes of the code formed by the team.Has commited flowchart document on this repository.<br>
+<br>Minahil Tahir:<br> Responsible for maintaining a structured README.md file on github including other git files.Moreover,this team member handles <ins>formation of flowchart of functions</ins> for this particular assignment along with testing possible outcomes of the code formed by the team.Has commited flowchart document on this repository.<br>
 <img width="1778" height="109" alt="Image" src="https://github.com/user-attachments/assets/c275c98d-103b-4eea-bc88-40af2416fcce" /><br>
 
 
 <br>**Ai Tool Reflection**:<br>
-Ai used: ChatGPT<br>
+-Ai used: ChatGPT<br>
 Reason: ChatGPT has been used by my team to generate the sudoku board containing playable values.<br>
 <br>-No Ai was used for documentation.<br>
 <br>-No Ai was used for brain-storming ideas for the sudoku game.<br>
@@ -56,9 +57,12 @@ Reason: ChatGPT has been used by my team to generate the sudoku board containing
 
 <br>**Future Improvements**:<br>
 Things that could have been improved are:<br>
-1.If <ins>GUI</ins> was used, it would have offered more of a game feel, with less lag and it would have been **user-friendly**.<br>
+1. OOP(object orienting programming) would have also been useful as the code owuld have been easier.Each object would have had its own blueprint(instructions).<br>
+
 2. The use of databases would have also offered a lot of user-friendly options like saving your progress, saving your initial score that you can later beat, storing hints in a database and many more.<br>
 
+3. If <ins>GUI</ins> was used, it would have offered more of a game feel, with less lag and it would have been **user-friendly**.<br>
+ 
 
 
 
