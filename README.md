@@ -57,7 +57,7 @@ Reason: ChatGPT has been used by my team to generate the sudoku board containing
 
 <br>**Future Improvements**:<br>
 Things that could have been improved are:<br>
-1. OOP(object orienting programming) would have also been useful as the code owuld have been easier.Each object would have had its own blueprint(instructions).<br>
+1. OOP(object orienting programming) would have also been useful as the code would have been easier.Each object would have had its own blueprint(instructions).<br>
 
 2. The use of databases would have also offered a lot of user-friendly options like saving your progress, saving your initial score that you can later beat, storing hints in a database and many more.<br>
 
